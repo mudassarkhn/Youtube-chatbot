@@ -1,4 +1,4 @@
-![App Home](.app.png)
+(.app.png)
 
 # 📺 YouTube RAG Chatbot
 
