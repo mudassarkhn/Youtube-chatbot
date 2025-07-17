@@ -27,7 +27,7 @@ This project is a Retrieval-Augmented Generation (RAG) chatbot for YouTube video
 
 ```bash
 git clone <repository-url>
-cd Youtube-chatbot-(A RAG Based System)
+cd Youtube-chatbot-A-RAG-based-system
 ```
 
 2. Create and activate a virtual environment (recommended):
@@ -93,3 +93,4 @@ This project is provided as-is without warranty. Use at your own risk.
 - [YouTube Transcript API](https://github.com/jdepoix/youtube-transcript-api)
 - [Streamlit](https://streamlit.io/)
 - Google Generative AI APIs
+## Project by Mudassar khan
